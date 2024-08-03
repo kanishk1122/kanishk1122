@@ -45,7 +45,7 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 <br>
 
 ### 🛠️ My Projects
-<a href="https://kepapro.vercel.app/" target="_blank"> <img alt="artistify" src="./projects/kepapro.svg" height="68" align="left"> </a>
+<a href="https://kepapro.vercel.app/" target="_blank"> <img alt="artistify" src="./projects/kepapro.svg" > </a>
 <a href="https://kanishk1122.github.io/canvas-p-1/" target="_blank"> <h1>Magma</h1> </a>
 <a href="https://my-portfolio-six-sigma-12.vercel.app/" target="_blank"> <h1>PortFolio</h1> </a>
 <a href="https://music-school-front-end.vercel.app/" target="_blank"> <h1>Musicmenia</h1> </a>
