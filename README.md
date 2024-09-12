@@ -13,7 +13,7 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on my Self to learn new skills
-- 🌱 &nbsp; I’m currently learning Typescript;
+- 🌱 &nbsp; I’m currently learning Java & DSA;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kanishk1122?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kanishk-21-soni/)
