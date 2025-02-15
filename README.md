@@ -34,12 +34,12 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 ### 💻 LeetCode Stats
 <p align="center">
   <img width="48%" src="https://leetcode-stats.vercel.app/api?username=kanishk21soni&theme=Dark" />
-  <img width="48%" src="https://leetcode.card.workers.dev/kanishk21soni?theme=dark&font=baloo&extension=null&border=0.5" />
+  <!-- <img width="48%" src="https://leetcode.card.workers.dev/kanishk21soni?theme=dark&font=baloo&extension=null&border=0.5" /> -->
 </p>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kanishk21soni&theme=dark" />
-</p>
+<!-- enable this wen you have bedge -->
+<!-- <p align="center"> -->
+  <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=kanishk21soni&theme=dark" />
+</p> -->
 
 ### 📊 Github Stats
 
