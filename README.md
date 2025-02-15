@@ -2,7 +2,6 @@
 
 <a href='https://www.linkedin.com/in/kanishk-21-soni/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-
 I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 <br/>
@@ -12,12 +11,11 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on my Self to learn new skills
-- 🌱 &nbsp; I’m currently learning Java & DSA;
+- 🌱 &nbsp; I’m currently learning C++ & DSA;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kanishk1122?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kanishk-21-soni/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/e/2PACX-1vThRUhdwrxn3n_aqAQC5szz_EflE4NAqaVVb_uCxBiMB_iHwHWZuae1gvh9CWjspNpaJYCzPX7BaF3M/pub)
 
 <br>
 
@@ -34,6 +32,7 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 <br>
 
 ### 📊 Github Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanishk1122&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk1122&theme=tokyonight&hide_border=true" />
@@ -44,19 +43,23 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 </p>
 
 ### 🌟 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk1122&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ### 🏆 GitHub Profile Trophy
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kanishk1122&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ### ⚡ GitHub Activity
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" />
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanishk1122&color=blue&style=flat-square&label=Profile+Views" />
 </p>
