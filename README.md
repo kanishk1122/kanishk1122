@@ -2,7 +2,6 @@
 
 <a href='https://www.linkedin.com/in/kanishk-21-soni/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-<a href='https://www.instagram.com/kanishk____soni?utm_source=qr&igsh=b2MycDczNHhrYWdm'><img alt="kaggle" src="https://www.pngfind.com/pngs/m/237-2378905_ig-png-logo-svg-transparent-instagram-logo-png.png" height='18px'/></a>
 
 I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
@@ -35,19 +34,29 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 <br>
 
 ### 📊 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanishk1122&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk1122&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href='https://github.com/kanishk1122/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/kanishk1122/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/kanishk1122/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" />
+</p>
 
-</a>
+### 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk1122&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
-<br>
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishk1122&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-### 🛠️ My Projects
+### ⚡ GitHub Activity
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" />
 
-<a href="https://kepapro.vercel.app/" target="_blank"> <img alt="artistify" src="./projects/kepapro.svg" > </a>
-<a href="https://kanishk1122.github.io/canvas-p-1/" target="_blank"> <h1>Magma</h1> </a>
-<a href="https://my-portfolio-six-sigma-12.vercel.app/" target="_blank"> <h1>PortFolio</h1> </a>
-<a href="https://music-school-front-end.vercel.app/" target="_blank"> <h1>Musicmenia</h1> </a>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishk1122&color=blue&style=flat-square&label=Profile+Views" />
+</p>
