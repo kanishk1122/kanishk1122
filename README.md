@@ -70,6 +70,8 @@ I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer
 
 ---
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6688552e501413692b82836c?variant=dark" alt="roadmap.sh"/></a>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanishk1122&color=blue&style=flat-square&label=Profile+Views" />
 </p>
