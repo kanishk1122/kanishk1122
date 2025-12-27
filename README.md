@@ -1,77 +1,89 @@
-## Hey 👋, I'm kanishk soni!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Kanishk+Soni+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8C%90;Tech+Explorer+%26+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<a href='https://www.linkedin.com/in/kanishk-21-soni/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kanishk-21-soni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vThRUhdwrxn3n_aqAQC5szz_EflE4NAqaVVb_uCxBiMB_iHwHWZuae1gvh9CWjspNpaJYCzPX7BaF3M/pub" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+  </a>
+</div>
 
-I am a kanishk soni and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-<br/>
-<br/>
+<br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<div align="center">
+  I am a adaptable <b>Full Stack Web Developer</b> who loves exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+  <br/><br/>
   
-### 🧐 More About Me:
+  🔭 <b>Currently working on:</b> Self-improvement & new skills  
+  🌱 <b>Currently learning:</b> DSA  
+  💬 <b>Ask me about:</b> Web Dev, Tech Stacks, or anything tech-related!  
+</div>
 
-- 🔭 &nbsp; I’m currently working on my Self to learn new skills
-- 🌱 &nbsp; I’m currently learning C++ & DSA;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kanishk1122?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kanishk-21-soni/)
-- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/e/2PACX-1vThRUhdwrxn3n_aqAQC5szz_EflE4NAqaVVb_uCxBiMB_iHwHWZuae1gvh9CWjspNpaJYCzPX7BaF3M/pub)
+<hr/>
 
-<br>
+### 🛠️ Languages & Tools
 
-### 🔨 Languages and Tools:
+<div align="center">
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<br>
+  <br/>
 
-### 💻 LeetCode Stats
-<p align="center">
-  <img width="48%" src="https://leetcode-stats.vercel.app/api?username=kanishk21soni&theme=Dark" />
-  <!-- <img width="48%" src="https://leetcode.card.workers.dev/kanishk21soni?theme=dark&font=baloo&extension=null&border=0.5" /> -->
-</p>
-<!-- enable this wen you have bedge -->
-<!-- <p align="center"> -->
-  <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=kanishk21soni&theme=dark" />
-</p> -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <br/>
 
-### 📊 Github Stats
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanishk1122&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk1122&theme=tokyonight&hide_border=true" />
-</p>
+<hr/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" />
-</p>
+### 📊 Stats & Activity
 
-### 🌟 Top Languages
+<div align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=kanishk21soni&theme=Dark" width="48%" />
+  
+  <br/><br/>
 
-<p align="center">
+  <a href="https://github.com/kanishk1122">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanishk1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/kanishk1122">
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk1122&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk1122&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
 
-### 🏆 GitHub Profile Trophy
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishk1122&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<br/>
 
-### ⚡ GitHub Activity
+<div align="center">
+  <h3>🗺️ My Journey</h3>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/6688552e501413692b82836c?variant=dark" alt="roadmap.sh" height="300px"/>
+  </a>
+</div>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk1122&theme=tokyo-night&hide_border=true" />
-
----
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6688552e501413692b82836c?variant=dark" alt="roadmap.sh"/></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishk1122&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishk1122&color=39FF14&style=flat-square&label=Profile+Views" />
+</div>
