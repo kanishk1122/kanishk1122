@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/kanishk-21-soni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kanishk21soni@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://docs.google.com/document/d/e/2PACX-1vThRUhdwrxn3n_aqAQC5szz_EflE4NAqaVVb_uCxBiMB_iHwHWZuae1gvh9CWjspNpaJYCzPX7BaF3M/pub" target="_blank">
+  <a href="https://docs.google.com/document/d/1KJq-7TaNrBLVfHg1S3MeVaeThPgAm00QsNTvEp6LWEE/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 </div>
@@ -17,11 +17,11 @@
 <br />
 
 <div align="center">
-  I am a adaptable <b>Full Stack Web Developer</b> who loves exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+  I am an adaptable <b>Full Stack Web Developer</b> who loves exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
   <br/><br/>
   
   🔭 <b>Currently working on:</b> Self-improvement & new skills  
-  🌱 <b>Currently learning:</b> DSA  
+  🌱 <b>Currently learning:</b> C++ & DSA  
   💬 <b>Ask me about:</b> Web Dev, Tech Stacks, or anything tech-related!  
 </div>
 
