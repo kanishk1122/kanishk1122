@@ -21,7 +21,7 @@
   <br/><br/>
   
   🔭 <b>Currently working on:</b> Self-improvement & new skills  
-  🌱 <b>Currently learning:</b> C++ & DSA  
+  🌱 <b>Currently learning:</b> DSA  
   💬 <b>Ask me about:</b> Web Dev, Tech Stacks, or anything tech-related!  
 </div>
 
